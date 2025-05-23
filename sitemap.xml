@@ -8,14 +8,9 @@
 
 
 <url>
-  <loc>https://www.realeag-swiss.com/</loc>
+  <loc>https://www.realeag-swiss.com</loc>
   <lastmod>2025-03-01T23:11:58+00:00</lastmod>
   <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.realeag-swiss.com/portfolio/</loc>
-  <lastmod>2025-03-01T23:11:58+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realeag-swiss.com/portfolio/commodity-sugar-and-sweeteners/</loc>
@@ -39,11 +34,6 @@
 </url>
 <url>
   <loc>https://www.realeag-swiss.com/portfolio/commodity-oilseeds-and-vegetable-oils/</loc>
-  <lastmod>2025-03-01T23:11:58+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.realeag-swiss.com/portfolio/beverage/</loc>
   <lastmod>2025-03-01T23:11:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -79,11 +69,6 @@
 </url>
 <url>
   <loc>https://www.realeag-swiss.com/service/oilseeds-and-vegetable-oils/</loc>
-  <lastmod>2025-03-01T23:11:58+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.realeag-swiss.com/portfolio-category/beverage/</loc>
   <lastmod>2025-03-01T23:11:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
